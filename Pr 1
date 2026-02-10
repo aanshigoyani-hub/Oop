@@ -1,1 +1,5 @@
-
+import java.util.*;
+public class pr1
+{
+public static void main()
+}
