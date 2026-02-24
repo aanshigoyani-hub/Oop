@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class p1 {
+public class metertofeet {
     public static void main(String[] args) {  
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter distance in meters: ");
